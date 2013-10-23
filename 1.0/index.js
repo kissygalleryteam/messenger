@@ -15,6 +15,7 @@ KISSY.add(
 			// 为了兼容调试和线上
 			postMessageSwf = VERSION ? ( 'http://a.tbcdn.cn/s/kissy/gallery/messenger/1.0/flash-post-message.swf' ) :'flash-post-message.swf',
 
+
 			// url 相关
 			search = location.search,
 
